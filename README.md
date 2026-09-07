@@ -6,15 +6,13 @@ to [re]create is the only way to comprehend
 
 ## Overview
 
-SimSim is a generic, open simulation package ...
+Simple Simulations is a virtual experimental environment with resilient architecture.
 
-It is designed for research, education, and transparent exploration of ...
-
-All components are built using public data sources and general scientific methods.
+It is built for research, education, and transparent exploration of complex systems.
 
 ## License
 
-© 2026 The SimSim Authors. All rights reserved.  
+© 2026 The Simple Simulations Authors. All rights reserved.  
 This project is licensed under the MIT License — see [`LICENSE`](./LICENSE) for details.
 
 ## Disclaimer
